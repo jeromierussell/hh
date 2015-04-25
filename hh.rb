@@ -9,7 +9,7 @@ end
 
 def do_stuff
 	# the_time = Time.local(2013, 5, 25, 6)
-	the_time = Time.local(2014, 5, 17, 6)
+	the_time = Time.local(2015, 6, 6, 6)
 
 	(the_time - Time.now).to_i / (24 * 60 * 60)
 end
